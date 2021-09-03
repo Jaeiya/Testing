@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    /* Basic Options */
+    "incremental": true,
+    "target": "ESNEXT",
+    "module": "commonjs",
+    "strict": true,
+    "removeComments": true,
+    "esModuleInterop": true,
+    "outDir": "./dist"
+  },
+  "exclude": [
+    "__tests__"
+  ]
+}
